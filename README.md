@@ -1,5 +1,5 @@
 # Data Science Resources
-Below is a list of data science resources to introduce you to the world of data analytics, data science, and programming. I'll update this list periodically as I learn of new resources and tools. If you have any suggestions, send me a note at <github@encryptme.33mail.com>, thanks.
+Below is a list of data science resources to introduce you to the world of data analytics, data science, and programming. I'll update this list periodically as I learn of new resources and tools. R and Python are open-source programming languages used for data analytics, statistical analysis, web scraping, machine learning, and artificial intelligence. If you have any suggestions, send me a note at <github@encryptme.33mail.com>, thanks.
 
 ## Online Educational Resources
 
@@ -7,7 +7,7 @@ Below is a list of data science resources to introduce you to the world of data 
 * [Khan Academy](https://www.khanacademy.org/math/statistics-probability): Statistics is critical for any data scientist, and the Khan Academy statistics and probability lessons will provide you with the basics
 * [Super Data Science Courses](https://www.superdatascience.com/courses/intro-data-science-step-by-step-guide/): I'm a huge fan of Kiril Eremenko's SuperDataScience, and now they're offering online intro courses (their $1 Premium 30-day trial will get you access to over 20 courses)
 * [freeCodeCamp's Best Courses](https://medium.freecodecamp.org/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e): freeCodeCamp ranks online data science courses on their Medium blog
-* [Udacity's Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025): I know two people who have taken this course and raved about it, but it requires some understanding of statistics and experience working with data (Udacity has other data science courses that are easier difficulty) 
+* [Udacity's Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025): I know two people who have taken this course and raved about it, but it requires some understanding of statistics and experience working with data (Udacity has other data science courses that are easier difficulty)
 
 ## Podcasts
 Outside of the classroom, podcasts help me stay current with data science news and local events. If you have any podcast suggestions that touch on analytics careers, data science, machine learning, or artificial intelligence, I'd love to hear from you!
