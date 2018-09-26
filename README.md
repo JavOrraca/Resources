@@ -1,5 +1,5 @@
 # Data Science Resources
-Hi folks, Jav here. I've created a list of data science resources to introduce you to the world of data analytics, data science, and programming. I'll continue to update this list as I learn of new resources / tools and if you have any suggestions, please let me know at <github@encryptme.33mail.com>.
+Hi folks, Jav here. I've created a list of data science resources to introduce you to the world of data analytics, data science, and programming. I'll continue to update this list as I learn of new resources and tools, and if you have any suggestions, please send me a note at <github@encryptme.33mail.com>.
 
 ## Online Resources
 
@@ -9,12 +9,14 @@ Hi folks, Jav here. I've created a list of data science resources to introduce y
 * [Udacity's Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025): I know two people who have taken this course and raved about it, but it requires some understanding of statistics and experience working with data (Udacity has other data science courses that are easier difficulty)
 
 ## Podcasts
-Outside of the classroom, podcasts help me stay current with data science. If you have any podcast suggestions (analytics, data science, machine learning, artificial intelligence, etc.), I'd love to hear from you.
+Outside of the classroom, podcasts help me stay current with data science news and local events. If you have any podcast suggestions that touch on analytics careers, data science, machine learning, artificial intelligence, etc., I'd love to hear from you.
 
-* [SuperDataScience Podcast](https://soundcloud.com/superdatascience)
+* [Super Data Science Podcast](https://soundcloud.com/superdatascience): Hosted by Kiril Eremenko, the goal of the Super Data Science podcast is to bring you the most inspiring data scientists and analysts from around the world
+* [Data Skeptic](https://dataskeptic.com/podcast?limit=10&offset=0): Hosted by Kyle Polich, _Data Skeptic_ aims to reveal the science of fake news.
+* [The Science of Social Media](https://soundcloud.com/the-science-of-social-media): Created by Buffer (social network account management and post scheduling tool), this podcast is great for understanding how data science is used in marketing and advertising, and explores technologies around social media marketing analytics  
 
 ## Books
-The following books I've read as part of my graduate coursework or I've they have been recommended to me by friends or data science influencers.
+The following books were part of my graduate coursework or have been recommended to me by friends or data science influencers.
 
 * Eremenko, Kirill. _Confident Data Skills: Master the Fundamentals of Working with Data and Supercharge Your Career_. Kogan Page, 2018.
    * From the creator of SuperDataScience, this was an easy "for fun" read, light math, and provides an overview of data analytics and careers in this field. I swear I'm not on Kiril's payroll(!)... he's just a data science career guru with fresh perspectives.
