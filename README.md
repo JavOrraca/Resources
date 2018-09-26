@@ -1,5 +1,5 @@
 # Data Science Resources
-Hi folks, Jav here. I've created a list of data science resources to introduce you to the world of data analytics, data science, and basic data programming. I'll continue to update this list as I learn of new resources / tools and if you have any suggestions, please let me know at <github@encryptme.33mail.com>.
+Hi folks, Jav here. I've created a list of data science resources to introduce you to the world of data analytics, data science, and programming. I'll continue to update this list as I learn of new resources / tools and if you have any suggestions, please let me know at <github@encryptme.33mail.com>.
 
 ## Online Resources
 
