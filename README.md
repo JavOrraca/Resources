@@ -34,7 +34,8 @@ Outside of the classroom, podcasts help me stay current with data science news a
   * Tip for Excel users: If you're using Excel regularly, stop using your mouse!
 * [Introduction to dplyr]: After installing the dplyr package, you can copy/paste sample R code from this site to learn how to use dplyr functions
   * dplyr is one of the [Tidyverse packages](https://www.tidyverse.org/packages/) that makes data manipulation and summarization easier and faster to do in R
-* [ggplot2](https://ggplot2.tidyverse.org/): While R's base graphing capabilities are powerful, the ggplot2 package makes it easier to produce high-quality plots and visualizations 
+* [ggplot2](https://ggplot2.tidyverse.org/): While R's base graphing capabilities are powerful, the ggplot2 package makes it easier to produce high-quality plots and visualizations
+
 ![alt text](http://felixfan.github.io/figure/ggplot2-Cheatsheet-20.png "Grouping multiple plots via ggplot2")
 
 ## Python: The Basics
