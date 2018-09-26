@@ -1,5 +1,5 @@
 # Data Science Resources
-Below is a list of data science resources to introduce you to the world of data analytics, data science, and programming. I'll update this list periodically as I learn of new resources and tools. R and Python are open-source programming languages used for data analytics, statistical analysis, web scraping, machine learning, and artificial intelligence. If you have any suggestions, send me a note at <github@encryptme.33mail.com>, thanks.
+Below is a list of data science resources to introduce you to the world of data analytics, data science, and programming. I'll update periodically as I learn of new resources and tools. R and Python are open-source programming languages used for data analytics, statistical analysis, web scraping, machine learning, and artificial intelligence. If you have any suggestions, send me a note at <github@encryptme.33mail.com>, thanks.
 
 ## Online Educational Resources
 
@@ -23,7 +23,7 @@ Outside of the classroom, podcasts help me stay current with data science news a
   * From the creator of Super Data Science, this was an easy "for fun" read, light math, and provides an overview of data analytics and careers in this field. I swear I'm not on Kiril's payroll(!)... he's just a data science career guru with fresh perspectives. [Amazon link](https://www.amazon.com/gp/product/0749481544/ref=as_li_tl?ie=UTF8&tag=superdatascie-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0749481544&linkId=bb7507851a740c1eb7f45ab4b6bd2a84)
 
 * Provost, Foster and Fawcett, Tom. _Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking_. O'Reilly Media, Inc., 2013.
-  * This was one of the textbooks for Foundations of Data Science, a graudate course at UCI that I took. Examples are denser and math-heavier than _Confident Data Skills_. This would be most appropriate for anyone actively trying to move into a data science role. [Amazon link](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/ref=sr_1_1?s=books&ie=UTF8&qid=1537984955&sr=1-1&keywords=data+science+for+business)
+  * This was a textbook for Foundations of Data Science, an UCI graduate course that I recently completed. Examples in this textbook are denser and math-heavier than _Confident Data Skills_. This would be most appropriate for anyone actively trying to move into a data science role. [Amazon link](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/ref=sr_1_1?s=books&ie=UTF8&qid=1537984955&sr=1-1&keywords=data+science+for+business)
 
 ## R: The Basics
 * [RStudio](https://www.rstudio.com/products/rstudio/download/): To get started with R, download and install RStudio's open-source desktop IDE
@@ -39,12 +39,12 @@ Outside of the classroom, podcasts help me stay current with data science news a
 ![alt text](http://felixfan.github.io/figure/ggplot2-Cheatsheet-20.png "Grouping multiple plots via ggplot2")
 
 ## Python: The Basics
-_Many online Python trainings were made when Python 2.x was standard. Python 3.x builds are the future of the language, so don't bother installing Python 2.x since 3.x syntax is so similar. Ping me if you need help._    
+_Many online Python trainings were made when Python 2.x was standard. Python 3.x is the future of the language, so don't bother installing Python 2.x (syntax between the two is very similar). Ping me if you need help._    
 
 * [PyCharm](https://www.jetbrains.com/pycharm/): A plethora of Python IDEs exist, PyCharm just happens to be my Python desktop IDE of choice
   * The full version is $89 USD for individual users, but if you're an active student, you can download the entire suite for free.
   * You can download a free stripped-down community version but it lacks full web development, database and SQL support
-* [Google for Education](https://developers.google.com/edu/python/exercises/basic): Google's Python classes (YouTube links below) are loaded with great content and three downloadable scripts that accompany the lessons - These will take you a few days to get through and if you have a second monitor, load the YouTube videos on your second monitor so you can pause and easily reference the instructor's code
+* [Google for Education](https://developers.google.com/edu/python/exercises/basic): Google's Python classes (YouTube links below) are loaded with great content and three downloadable scripts that accompany the lessons - These will take you a few days to complete and if you have a second monitor, load the YouTube videos on your second monitor so you can pause and easily reference the instructor's syntax
   * [Google's Python Class (Day 1, Part 1)](https://www.youtube.com/watch?v=tKTZoB2Vjuk): Introduction and strings
   * [Google's Python Class (Day 1, Part 2)](https://www.youtube.com/watch?v=EPYupizJYQI): Lists and sorting
   * [Google's Python Class (Day 1, Part 3)](https://www.youtube.com/watch?v=haycL41dAhg): Dictionary and files
