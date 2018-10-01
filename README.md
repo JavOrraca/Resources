@@ -3,6 +3,7 @@ Below is a list of data science resources to introduce you to the world of data 
 
 ## Online Educational Resources
 
+* [Codecademy](https://www.codecademy.com/): This is one of the best online interactive learning platforms that I've used - Codecademy offers free (and for pay) coding classes in several programming languages including Python, Java, JavaScript, SQL, and more
 * [Kaggle](https://www.kaggle.com/): World's largest community of data scientists and machine learners, with discussion boards, downloadable datasets, and competitions to reinforce your programming skills with R, Python, etc.
 * [Khan Academy](https://www.khanacademy.org/math/statistics-probability): Statistics is critical for any data scientist, and the Khan Academy statistics and probability lessons will provide you with the basics
 * [Super Data Science Courses](https://www.superdatascience.com/courses/intro-data-science-step-by-step-guide/): I'm a huge fan of Kirill Eremenko's SuperDataScience, and now they're offering online intro courses (their $1 Premium 30-day trial will get you access to over 20 courses)
@@ -53,3 +54,7 @@ _Many online Python trainings were made when Python 2.x was standard. Python 3.x
   * [Google's Python Class (Day 2, Part 2)](https://www.youtube.com/watch?v=uKZ8GBKmeDM): Utilities: OS Modules and Commands
   * [Google's Python Class (Day 2, Part 3)](https://www.youtube.com/watch?v=Nn2KQmVF5Og): URLs and HTTP, Exceptions
   * [Google's Python Class (Day 2, Part 4)](https://www.youtube.com/watch?v=IcteAbMC1Ok): Conclusion
+  
+  ## SQL: The Basics
+  * [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial): Learn SQL in stages with these free, interactive tutorials
+  * [The Try-SQL Editor](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all): The SQL Tryit Editor lets you practice SQL statements with pre-populated data sets
