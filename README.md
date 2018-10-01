@@ -1,5 +1,5 @@
 # Data Science Resources
-Below is a list of data science resources to introduce you to the world of data analytics, data science, and programming. I'll update periodically as I learn of new resources and tools. R and Python are open-source programming languages used for data analytics, statistical analysis, web scraping, machine learning, and artificial intelligence. If you have any suggestions, send me a note at <github@encryptme.33mail.com>, thanks.
+Below is a list of data science resources to introduce you to the world of data analytics, data science, and programming. I'll update periodically as I learn of new resources and tools. R, Python, and SQL are programming languages used for data collection, data manipulation, data analytics, statistical analysis, web scraping, machine learning, and artificial intelligence. If you have any suggestions, send me a note at <github@encryptme.33mail.com>, thanks.
 
 ## Online Educational Resources
 
