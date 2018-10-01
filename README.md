@@ -54,7 +54,7 @@ _Many online Python trainings were made when Python 2.x was standard. Python 3.x
   * [Google's Python Class (Day 2, Part 2)](https://www.youtube.com/watch?v=uKZ8GBKmeDM): Utilities: OS Modules and Commands
   * [Google's Python Class (Day 2, Part 3)](https://www.youtube.com/watch?v=Nn2KQmVF5Og): URLs and HTTP, Exceptions
   * [Google's Python Class (Day 2, Part 4)](https://www.youtube.com/watch?v=IcteAbMC1Ok): Conclusion
-  
-  ## SQL: The Basics
+
+## SQL: The Basics
   * [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial): Learn SQL in stages with these free, interactive tutorials
   * [The Try-SQL Editor](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all): The SQL Tryit Editor lets you practice SQL statements with pre-populated data sets
