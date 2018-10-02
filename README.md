@@ -58,3 +58,6 @@ _Many online Python trainings were made when Python 2.x was standard. Python 3.x
 ## SQL: The Basics
   * [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial): Learn SQL in stages with these free, interactive tutorials
   * [The Try-SQL Editor](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all): The SQL Tryit Editor lets you practice SQL statements with pre-populated data sets
+
+## Other Stuff
+* [33mail](https://33mail.com/): I’ve learned a lot about the harvesting, sale, and use of personal digital data for commercial purposes. Privacy-enhancing services such as 33mail allow you to create new email addresses instantly for forwarding purposes.
