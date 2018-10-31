@@ -27,6 +27,10 @@ Outside of the classroom, podcasts help me stay current with data science news a
 * Provost, Foster and Fawcett, Tom. _Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking_. O'Reilly Media, Inc., 2013.
   * This was a textbook for Foundations of Data Science, an UCI graduate course that I recently completed. Examples in this textbook are denser and math-heavier than _Confident Data Skills_. This would be most appropriate for anyone actively trying to move into a data science role. [Amazon link](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/ref=sr_1_1?s=books&ie=UTF8&qid=1537984955&sr=1-1&keywords=data+science+for+business)
 
+* Murray, Scott. _Interactive Data Visualization for the Web: An Introduction to Designing with D3_. O'Reilly Media, Inc., 2nd Edition, 2017.
+  * Ideal for beginners, Scott Murray takes you through easy-to-consume fundamental concepts and methods of D3, the most powerful JavaScript library for web-based visualizations. [Amazon link](https://www.amazon.com/Interactive-Data-Visualization-Web-Introduction/dp/1491921285)
+  *  _Note: This 2nd Edition (October 2017) release was updated with D3's v4 syntax and D3 v5 was released in April 2018. While some of the syntax in this 2nd Edition may be rendered obsolete, it's still a valuable resource for learning the fundamentals of D3 and data design._
+
 ## R: The Basics
 * [RStudio](https://www.rstudio.com/products/rstudio/download/): To get started with R, download and install RStudio's open-source desktop IDE
 * [swirl](https://swirlstats.com/students.html): Once RStudio is installed (or your IDE of choice), installing the swirl package is as easy as typing _install.packages("swirl")_ in the RStudio console
